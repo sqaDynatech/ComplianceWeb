@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>IdCliente</name>
+   <tag></tag>
+   <elementGuidId>a671f070-b186-4d6a-8b40-026b533bcf03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='GridContainerRow_0001']/td[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>470a967c-1f1d-4852-974e-c242bcf1188f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control-static</value>
+      <webElementGuid>323d336e-8c09-4d06-b210-442785bee04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>a45de7c8-15af-4770-99e4-bf31ac692fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GridContainerRow_0001&quot;)/td[@class=&quot;gx-tab-padding-fix-1 gx-attribute WWColumn&quot;]/p[@class=&quot;form-control-static&quot;]</value>
+      <webElementGuid>ac97d6b3-7ca4-467c-9a7d-e71f1009d306</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='GridContainerRow_0001']/td[3]/p</value>
+      <webElementGuid>1c1de4b3-2226-469e-b741-2f8bf723f9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Operaciones'])[1]/following::p[2]</value>
+      <webElementGuid>85127fd5-b8a6-405f-9301-d51bff79975b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Razón del Status'])[1]/following::p[2]</value>
+      <webElementGuid>9c6cde1b-cc88-45fd-9062-70e48006ec92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WUHL HEIDT, MARIIO'])[1]/preceding::p[1]</value>
+      <webElementGuid>c7c8b8a7-e79a-447c-b70f-2d4a58b44669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MEDIO'])[1]/preceding::p[4]</value>
+      <webElementGuid>b560edc4-6fb5-4de9-a3bd-17968e572bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/p</value>
+      <webElementGuid>4f92262c-c46e-4803-a610-62212d91fb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '4' or . = '4')]</value>
+      <webElementGuid>b84ca523-97ee-45ea-ae8d-6ebf431d7bf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

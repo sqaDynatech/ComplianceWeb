@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Monto Acumulado Cliente</name>
+   <tag></tag>
+   <elementGuidId>69e687e6-b939-4313-b71c-6746601357e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='17']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#17 > span.menu-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>835c4e46-e67a-4971-8533-90e7ce7641ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-text</value>
+      <webElementGuid>e71c4843-a5dd-4e70-8dca-ee47caacfe67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monto Acumulado Cliente</value>
+      <webElementGuid>8043b9f0-6801-442d-bbf2-e82e54e1c748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;17&quot;)/span[@class=&quot;menu-text&quot;]</value>
+      <webElementGuid>a5b992ee-3c45-4f77-911a-65fea1f0a960</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='17']/span</value>
+      <webElementGuid>648dadc2-9464-4813-895b-8692d02ec604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doc. Requerida'])[1]/following::span[1]</value>
+      <webElementGuid>b97dbb88-a362-4bcd-9c03-62730704abba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vencimiento Doc.'])[1]/following::span[2]</value>
+      <webElementGuid>3fd6b3b6-5361-4d6e-b35e-559de646aa1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monto Acumulado Contraparte'])[1]/preceding::span[1]</value>
+      <webElementGuid>1461bbb6-4fa1-4dca-bc9a-8ebd1e263adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monto']/parent::*</value>
+      <webElementGuid>1abee9f4-5e9b-4259-a0f0-744a824fd67c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[6]/a/span</value>
+      <webElementGuid>7eb61056-bad2-4bd4-9444-865fd9759298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Monto Acumulado Cliente' or . = 'Monto Acumulado Cliente')]</value>
+      <webElementGuid>fbb1f029-9d58-49e2-b05c-9898cbbbc254</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
