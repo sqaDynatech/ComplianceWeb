@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://192.168.2.231:8443/compliance_sqa/com.dynatechcompliance.login'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

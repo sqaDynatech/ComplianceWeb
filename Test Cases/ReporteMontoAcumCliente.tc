@@ -5,4 +5,32 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c3549300-973e-4a2a-b741-0689b850c602</testCaseGuid>
+   <variable>
+      <defaultValue>'master.apurex'</defaultValue>
+      <description></description>
+      <id>b8edae17-07a3-4be5-b55f-23a9ed2d96d6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>11352df5-0bb7-48e7-906e-96fd7156e773</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'TEST QA - ONLINE'</defaultValue>
+      <description></description>
+      <id>28a67874-8bfc-4a1e-a083-2fe266349c53</id>
+      <masked>false</masked>
+      <name>empresaStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Master Apurex'</defaultValue>
+      <description></description>
+      <id>3da87b41-0326-45e2-80d0-b43643c122e0</id>
+      <masked>false</masked>
+      <name>nombreUsuario</name>
+   </variable>
 </TestCaseEntity>
